@@ -1,0 +1,10 @@
+.navbar-nav.ms-auto li a{
+    color: #9AC8CD;
+}
+iframe {
+    height: 89vh;
+    width: 49vw;
+    display: inline-block;
+    position: sticky;
+
+}
